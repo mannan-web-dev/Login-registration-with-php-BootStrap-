@@ -1,1 +1,6 @@
 # Login-registration-with-php-BootStrap-![1](https://user-images.githubusercontent.com/111185314/191563639-eccb3240-a985-46be-9476-32ca2a1bd837.JPG)
+![2](https://user-images.githubusercontent.com/111185314/191563807-d3ba2cdd-d9f0-4144-8c1f-58cf2b0c0ee1.JPG)
+![3](https://user-images.githubusercontent.com/111185314/191563838-57041154-7ee6-4d9f-8b9e-0f6c4c579efd.JPG)
+![4](https://user-images.githubusercontent.com/111185314/191563874-14151395-bca9-4ba7-8192-6b239d229fdd.JPG)
+![5](https://user-images.githubusercontent.com/111185314/191563892-6c365b72-dda4-4e7b-a1cd-ece40d003467.JPG)
+![6](https://user-images.githubusercontent.com/111185314/191563927-4f38ee14-788f-4001-8004-5b708bd94cc9.JPG)
